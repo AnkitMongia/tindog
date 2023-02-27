@@ -1,2 +1,1 @@
-# tindog
-Tinder for dogs using Bootstrap Stylesheets
+TinDog Starting Files
